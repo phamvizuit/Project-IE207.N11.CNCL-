@@ -1,4 +1,4 @@
-IE207.N11.CNCL
+
 Sentiment based method
 Đầu tiên chúng tôi kiểm tra so khớp từ, toxic spans sẽ bao gồm từ tiêu cực hoặc độc
 hại. Chúng tôi cũng sử dụng TextBlob (Loria, 2018) để nhận diện cảm xúc của từ. Với
